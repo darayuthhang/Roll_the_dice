@@ -1,0 +1,37 @@
+html{
+background: #59886b;
+}
+.header{
+  display: grid;
+  align-items: center;
+  height: 500px;
+}
+
+.welcome-to-vegas{
+  display: grid;
+  justify-content: center
+  ;
+}
+.dices{
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  justify-content: center;  
+}
+.main{
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+ 
+}
+.btn{
+  width: 100px;
+  height: 50px;
+  background-color: #9b1c1f;
+  color: white;
+}
+.btn:hover{
+  background-color: cyan;
+}
+
+
