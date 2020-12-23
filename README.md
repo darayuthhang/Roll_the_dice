@@ -6,6 +6,7 @@
   - App allows the user to use AWS alexa to roll the dice. It also allow the user to play and pause the music.
 
   - App Design architecture
+
     <img src="https://user-images.githubusercontent.com/33853565/103020596-b26cbd80-4516-11eb-8b57-f2abf3074cd7.jpg" />
 
   - App actual image
