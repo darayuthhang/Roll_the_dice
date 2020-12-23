@@ -12,6 +12,10 @@
   
   <img src="https://user-images.githubusercontent.com/33853565/101845591-0e017900-3b1d-11eb-9988-959767d98313.png" />
   
+
+# Alexa Utterance
+  -  start {roll}
+  
 # purpose
 
  - just want to have fun create small mini app using react and aws alexa.
